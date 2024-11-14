@@ -39,7 +39,7 @@ I am an Aspiring AI 🤖 and ML engineer with hands-on experience in developing 
 - ⚡ Fun fact: I am nocturnal animal  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="center" width="100%">
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/8fe237e6-f3b4-4c0b-b163-4509340600d2" align="center" style="width: 100%" />
