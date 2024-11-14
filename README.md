@@ -18,23 +18,29 @@ I am an Aspiring AI 🤖 and ML engineer with hands-on experience in developing 
 <br/>  
 
 ## Rapidfire 
-<div style="display: flex; justify-content: space-between; align-items: center; text-align: left;">
+<table style="border: none; width: 100% ;"><tr style="border: none;><td valign="top" width="50%" style="font-size: 18px; text-align: center; border: none;">
 
-  <div style="font-size: 18px; width: 48%; padding-right: 10px;">
-    - 🔭 I’m currently pursuing an M.s.c DataScience  
-    <br><br>
-    - 🌱 I’m currently learning Flask  
-    <br><br>
-    - ❓ Ask me about anything related to ML or DL  
-    <br><br>
-    - ⚡ Fun fact: I am nocturnal animal  
-  </div>
+- 🔭 I’m currently pursuing an M.s.c DataScience  
+  
 
-  <div style="width: 48%; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/8fe237e6-f3b4-4c0b-b163-4509340600d2" style="width: 50%;" />
-  </div>
+- 🌱 I’m currently learning Flask  
+  
 
-</div>
+- ❓ Ask me about anything related to ML or DL  
+  
+
+- ⚡ Fun fact: I am nocturnal animal  
+
+
+</td>
+<td valign="center" width="50%" style="text-align: center; border: none;">
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/8fe237e6-f3b4-4c0b-b163-4509340600d2" align="center" style="width: 50%" />
+</div>  
+
+</td></tr></table>
+
 
 <br/>  
 
