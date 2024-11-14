@@ -42,7 +42,7 @@ I am an Aspiring AI 🤖 and ML engineer with hands-on experience in developing 
 </td><td valign="center" width="100%" style="text-align: center;">
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/8fe237e6-f3b4-4c0b-b163-4509340600d2" align="center" style="width: 100%" />
+<img src="https://github.com/user-attachments/assets/8fe237e6-f3b4-4c0b-b163-4509340600d2" align="center" style="width: 50%" />
 </div>  
 
 </td></tr></table>
@@ -81,7 +81,7 @@ I am an Aspiring AI 🤖 and ML engineer with hands-on experience in developing 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> 
   </a> 
   <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/XAMPP_Logo_2016.svg/1200px-XAMPP_Logo_2016.svg.png" alt="xampp" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/XAMPP_Logo_2016.svg" alt="xampp" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
@@ -105,6 +105,7 @@ I am an Aspiring AI 🤖 and ML engineer with hands-on experience in developing 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   </a>
 </p>
+
 
 
 
