@@ -42,8 +42,7 @@ I am an Aspiring AI 🤖 and ML engineer with hands-on experience in developing 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="![Untitled design (2)](https://github.com/user-attachments/assets/8fe237e6-f3b4-4c0b-b163-4509340600d2)
-" align="center" style="width: 100%" />
+<img src="https://github.com/user-attachments/assets/8fe237e6-f3b4-4c0b-b163-4509340600d2" align="center" style="width: 100%" />
 </div>  
 
 
@@ -98,5 +97,3 @@ I am an Aspiring AI 🤖 and ML engineer with hands-on experience in developing 
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
