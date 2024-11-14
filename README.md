@@ -1,4 +1,4 @@
-## 🎨 Welcome to Mani's Digital Atelier! 🚀  
+# 🎨 Welcome to Mani's Digital Atelier! 🚀  
 
 Hey 👋, I'm Mani Saketh  
 
