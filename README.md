@@ -73,6 +73,7 @@ I am an Aspiring AI 🤖 and ML engineer with hands-on experience in developing 
 <br/>  
 
 
+
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -84,16 +85,5 @@ I am an Aspiring AI 🤖 and ML engineer with hands-on experience in developing 
 
 </td></tr></table>  
 
-<br/>  
 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
