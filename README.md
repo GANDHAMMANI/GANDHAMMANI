@@ -24,8 +24,7 @@ I am an Aspiring AI 🤖 and ML engineer with hands-on experience in developing 
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%" style="font-size: 18px; text-align: center;">
+## Rapidfire  <table style="border: none; width: 100%;"><tr><td valign="top" width="50%" style="font-size: 18px; text-align: center; border: none;">
 
 - 🔭 I’m currently pursuing an M.s.c DataScience  
   
@@ -39,18 +38,13 @@ I am an Aspiring AI 🤖 and ML engineer with hands-on experience in developing 
 - ⚡ Fun fact: I am nocturnal animal  
 
 
-</td><td valign="center" width="100%" style="text-align: center;">
+</td><td valign="center" width="50%" style="text-align: center; border: none;">
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/8fe237e6-f3b4-4c0b-b163-4509340600d2" align="center" style="width: 50%" />
 </div>  
 
 </td></tr></table>
-
-
-
-</td></tr></table>  
-
 <br/>  
 
 ## Languages and Tools  
