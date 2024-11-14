@@ -1,28 +1,21 @@
 ## 🎨 Welcome to Mani's Digital Atelier! 🚀  
-  
 
 Hey 👋, I'm Mani Saketh  
-  
 
 <a href="https://github.com/GANDHAMMANI" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/https://x.com/Karan_2421" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://x.com/Karan_2421" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/gandhammanisaketh2421" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/gandhammanisaketh2421" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>  
-  
-
-
 
 ### Glad to see you here!  
 I am an Aspiring AI 🤖 and ML engineer with hands-on experience in developing and deploying AI-driven applications, passionate about web development, and skilled as a full-stack developer.  
-  
 
 <br/>  
-
 
 ## Rapidfire 
 <div style="display: flex; justify-content: space-between; align-items: center; text-align: left;">
@@ -97,11 +90,6 @@ I am an Aspiring AI 🤖 and ML engineer with hands-on experience in developing 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   </a>
 </p>
-
-
-
-
-
 
 ## Github Stats  
 
