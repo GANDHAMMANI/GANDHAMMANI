@@ -20,7 +20,7 @@ I am an Aspiring AI 🤖 and ML engineer with hands-on experience in developing 
 ## Rapidfire 
 <div style="display: flex; justify-content: space-between; align-items: center; text-align: left;">
 
-  <div style="font-size: 18px; width: 48%;">
+  <div style="font-size: 18px; width: 48%; padding-right: 10px;">
     - 🔭 I’m currently pursuing an M.s.c DataScience  
     <br><br>
     - 🌱 I’m currently learning Flask  
