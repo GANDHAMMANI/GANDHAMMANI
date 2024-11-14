@@ -24,7 +24,9 @@ I am an Aspiring AI 🤖 and ML engineer with hands-on experience in developing 
 <br/>  
 
 
-## Rapidfire  <table style="border: none; width: 100%;"><tr><td valign="top" width="50%" style="font-size: 18px; text-align: center; border: none;">
+## Rapidfire  
+
+<table style="border: none; width: 100%;"><tr><td valign="top" width="50%" style="font-size: 18px; text-align: center; border: none;">
 
 - 🔭 I’m currently pursuing an M.s.c DataScience  
   
