@@ -35,9 +35,7 @@ I am an Aspiring AI 🤖 and ML engineer with hands-on experience in developing 
 </td>
 <td valign="center" width="50%" style="text-align: center; border: none;">
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/8fe237e6-f3b4-4c0b-b163-4509340600d2" align="center" style="width: 50%" />
-</div>  
+
 
 </td></tr></table>
 
@@ -92,7 +90,9 @@ I am an Aspiring AI 🤖 and ML engineer with hands-on experience in developing 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   </a>
 </p>
-
+<div align="center">
+<img src="https://github.com/user-attachments/assets/8fe237e6-f3b4-4c0b-b163-4509340600d2" align="center" style="width: 50%" />
+</div>  
 ## Github Stats  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GANDHAMMANI&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
