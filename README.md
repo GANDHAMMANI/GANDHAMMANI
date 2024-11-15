@@ -33,17 +33,13 @@ I am an Aspiring AI 🤖 and ML engineer with hands-on experience in developing 
 
 
 </td>
-<td valign="center" width="50%" style="text-align: center; border: none;">
-
-
-
-</td></tr></table>
+</tr></table>
 
 
 <br/>  
 
 ## Languages and Tools  
-<h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> 
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -93,6 +89,7 @@ I am an Aspiring AI 🤖 and ML engineer with hands-on experience in developing 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/8fe237e6-f3b4-4c0b-b163-4509340600d2" align="center" style="width: 50%" />
 </div>  
+
 ## Github Stats  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GANDHAMMANI&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
